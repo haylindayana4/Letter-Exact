@@ -1,0 +1,143 @@
+.navbar{
+    background-color: black;
+}
+.img_nav{
+    height: 2rem;
+}
+.linea_var{
+    height: 2rem;
+    margin-top: 0.3rem;
+}
+.logo_cuenta{
+    height: 2rem;
+    margin-top: 0.3rem;
+}
+.racha{
+    margin-right: 1rem;
+    color: white;
+}
+.fuego{
+    height: 2rem;
+    margin-right: 10rem;
+    margin-top: 0.3rem;
+}
+.usuario{
+    color: white;
+    margin-right: 10rem;
+}
+.cuadro_titulos{
+    width: 50rem;
+    height: 6rem;
+    background-color: black;
+    margin-top: 1rem;
+    margin-left: 20rem;
+    border-radius: 2rem;
+}
+.seccion1{
+    font-size: 1.5rem;
+    padding-left: 5rem;
+    color: white;
+    padding-top: 1rem;
+}
+.leccion3{
+    font-size: 1.5rem;
+    padding-left: 5rem;
+    color: white;
+}
+.circulos{
+    width: 10rem;
+    height: 10rem;
+    background-color: black;
+    border-radius: 6rem;
+    margin-left: 8rem;
+    margin-top: 20rem;
+    position: absolute;
+}
+.circulo1-1{
+    width: 6.5rem;
+    height: 6.5rem;
+    background-color: rgb(151, 149, 148);
+    border-radius: 4rem;
+    margin-left: 1.6rem;
+    margin-top: 1.5rem;
+}
+.check{
+    z-index: +1;
+    margin-left: 1.3rem;
+    margin-top: 1.3rem;
+    height: 3.5rem;
+}
+.circulos2{
+    width: 10rem;
+    height: 10rem;
+    background-color: black;
+    border-radius: 6rem;
+    margin-left: 24rem;
+    margin-top: 6rem;
+    position: absolute;
+}
+.circulo2-1{
+    width: 6.5rem;
+    height: 6.5rem;
+    background-color: rgb(151, 149, 148);
+    border-radius: 4rem;
+    margin-left: 1.6rem;
+    margin-top: 1.5rem;
+}
+.circulos3{
+    width: 10rem;
+    height: 10rem;
+    background-color: black;
+    border-radius: 6rem;
+    margin-left: 43rem;
+    margin-top: 20rem;
+    position: absolute;
+}
+.circulo3-1{
+    width: 6.5rem;
+    height: 6.5rem;
+    background-color: rgb(151, 149, 148);
+    border-radius: 4rem;
+    margin-left: 1.6rem;
+    margin-top: 1.5rem;
+}
+.circulos4{
+    width: 10rem;
+    height: 10rem;
+    background-color: black;
+    border-radius: 6rem;
+    margin-left: 58rem;
+    margin-top: 6rem;
+    position: absolute;
+}
+.circulo4-1{
+    width: 6.5rem;
+    height: 6.5rem;
+    background-color: rgb(151, 149, 148);
+    border-radius: 4rem;
+    margin-left: 1.6rem;
+    margin-top: 1.5rem;
+}
+.book{
+    z-index: +1;
+    margin-left: 1.4rem;
+    margin-top: 1.2rem;
+    height: 3.5rem;
+}
+.circulos5{
+    width: 10rem;
+    height: 10rem;
+    background-color: black;
+    border-radius: 6rem;
+    margin-left: 73rem;
+    margin-top: 20rem;
+    position: absolute;
+}
+.circulo5-1{
+    width: 6.5rem;
+    height: 6.5rem;
+    background-color:rgb(151, 149, 148);
+    border-radius: 4rem;
+    margin-left: 1.6rem;
+    margin-top: 1.5rem;
+}
