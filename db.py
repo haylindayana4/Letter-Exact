@@ -32,7 +32,7 @@ cadena_de_conexion = "sqlite:///usuarios.db"
 connect_args = {"check_same_thread": False}
 
 # Aquí creamos el "motor" (engine) de la base de datos.
-engine = create_engine(cadena_de_conexion, connect_args=connect_args)
+engine = create_engine(postgresql://postgres:[YOUR-PASSWORD]@db.fggxeiymxnkdnppubksc.supabase.co:5432/postgres)
 
 # Creamos una "fábrica" de sesiones llamada SessionLocal.
 SessionLocal = sessionmaker(
